@@ -1,6 +1,6 @@
 ## Hello! Welcome to my GitHub!!! I'm Flávia Vitória de Queiroz
 - 📔 I’m student of data science of UFMS
-- 👩🏽‍💻 I’m currently learning Python, SQL and MySQL
+- 👩🏽‍💻 I’m currently learning Python, SQL, PostgreSQL, MySQL and cloud computing
 - 🗺️ In my GitHub is possible see my personal projects 
 
 <div>
