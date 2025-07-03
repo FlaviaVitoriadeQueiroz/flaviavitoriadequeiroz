@@ -5,8 +5,8 @@
 
 <div>
 <a href="https://github.com/flaviavitoriadequeiroz">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=flaviavitoriadequeiroz&show_icons=true&theme=neon&include_all_commits-true&count_private-true"/_>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviavitoriadequeiroz&layout=compact&langs_count=16&theme=neon"/_>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=flaviavitoriadequeiroz&show_icons=true&theme=neon&include_all_commits-true&count_private-true"/_>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviavitoriadequeiroz&layout=compact&langs_count=16&theme=neon"/_>
 </div>
 
 <div style="display: inline_block"><br>
