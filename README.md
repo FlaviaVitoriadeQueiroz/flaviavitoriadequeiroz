@@ -1,3 +1,7 @@
+!()
+
+<h3 align="center" style="color:#ff1493">Hello people! Welcome to my GitHub!!!</h3>
+
 ## Hello! Welcome to my GitHub!!! I'm Flávia Vitória de Queiroz
 - 📔 I’m student of data science of UFMS
 - 👩🏽‍💻 I’m currently learning Python, SQL, PostgreSQL, MySQL, Power BI and cloud computing (AWS)
