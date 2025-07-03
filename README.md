@@ -1,6 +1,5 @@
 <p align="center">
-  <img
-    src="https://github.com/FlaviaVitoriadeQueiroz/flaviavitoriadequeiroz/blob/main/assets/Gif-Hello?raw=true">
+  <img src="https://github.com/FlaviaVitoriadeQueiroz/flaviavitoriadequeiroz/blob/main/assets/gifhello.gif?raw=true">
 </p>
 
 ## Hello! Welcome to my GitHub!!! I'm Flávia Vitória de Queiroz
