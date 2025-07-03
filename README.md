@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://github.com/FlaviaVitoriadeQueiroz/flaviavitoriadequeiroz/blob/main/assets/gifhello.gif?raw=true">
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=600&lines=Hello!+Welcome+to+my+GitHub!!!" alt="Typing SVG" />
+  </a>
+</div>
 
-## Hello! Welcome to my GitHub!!! I'm Flávia Vitória de Queiroz
+## I'm Flávia Vitória de Queiroz
 - 📔 I’m student of data science of UFMS
 - 👩🏽‍💻 I’m currently learning Python, SQL, PostgreSQL, MySQL, Power BI and cloud computing (AWS)
 - 🗺️ In my GitHub is possible see my personal projects 
