@@ -17,9 +17,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  
-
-
 </div>
 
 <picture align="center">
@@ -27,3 +24,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/flaviavitoriaqueiroz/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/flaviavitoriaqueiroz/flaviavitoriaqueiroz/output/github-contribution-grid-snake.svg">
 </picture>
+<br><br>
