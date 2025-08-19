@@ -37,6 +37,7 @@
   <img align="center" alt="matplotlib" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg">
   <img align="center" alt="numpy" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+  <img align="center" alt="java" height="150" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   
 </div>
 
