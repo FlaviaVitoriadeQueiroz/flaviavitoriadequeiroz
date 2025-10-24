@@ -35,7 +35,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="matplotlib" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg">
-  <img align="center" alt="numpy" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg">
+  <img align="center" alt="numpy" height="100" width="80" src="https://github.com/FlaviaVitoriadeQueiroz/flaviavitoriadequeiroz/blob/main/logo/NumPy_logo_2020.svg.png">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="java" height="150" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   
