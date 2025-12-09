@@ -19,11 +19,11 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/flaviavitoriaqueiroz/)
 
 
-<div>
+<!--<div>
 <a href="https://github.com/flaviavitoriadequeiroz">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=flaviavitoriadequeiroz&show_icons=true&theme=neon&include_all_commits-true&count_private-true"/_>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviavitoriadequeiroz&layout=compact&langs_count=16&theme=neon"/_>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
