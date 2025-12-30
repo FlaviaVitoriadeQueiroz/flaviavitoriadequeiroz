@@ -18,12 +18,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fl%C3%A1via-vit%C3%B3ria-de-queiroz-84b12323b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/flaviavitoriaqueiroz/)
 
-
+<!--
 <div>
 <a href="https://github.com/flaviavitoriadequeiroz">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=flaviavitoriadequeiroz&show_icons=true&theme=neon&include_all_commits-true&count_private-true"/_>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviavitoriadequeiroz&layout=compact&langs_count=16&theme=neon"/_>
-</div> 
+</div> -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
@@ -40,11 +40,11 @@
   <img align="center" alt="java" height="150" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   
 </div>
-<!-- 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flaviavitoriadequeiroz/flaviavitoriadequeiroz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flaviavitoriadequeiroz/flaviavitoriadequeiroz/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/flaviavitoriadequeiroz/flaviavitoriadequeiroz/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
--->
+
