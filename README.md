@@ -6,7 +6,7 @@
 
 ## I'm Flávia Vitória de Queiroz
 - 📔 I’m student of data science of UFMS and CNA B1 level of english proficiency and UNESP A1 level of french proficiency
-- 👩🏽‍💻 I’m currently learning Python, SQL, R and cloud computing (AWS)
+- 👩🏽‍💻 I’m currently learning Python, SQL and cloud computing 
 - I am interested in Data Engineering and Data Science
 - 🗺️ In my GitHub is possible see my personal projects, and repositories with content and exercises of what I have been studying
 
